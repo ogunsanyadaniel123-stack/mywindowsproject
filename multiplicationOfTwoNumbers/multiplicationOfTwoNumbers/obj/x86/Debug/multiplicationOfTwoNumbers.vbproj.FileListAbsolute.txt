@@ -1,0 +1,13 @@
+C:\Users\user\AppData\Local\Temporary Projects\multiplicationOfTwoNumbers\bin\Debug\multiplicationOfTwoNumbers.exe
+C:\Users\user\AppData\Local\Temporary Projects\multiplicationOfTwoNumbers\bin\Debug\multiplicationOfTwoNumbers.pdb
+C:\Users\user\AppData\Local\Temporary Projects\multiplicationOfTwoNumbers\bin\Debug\multiplicationOfTwoNumbers.xml
+C:\Users\user\AppData\Local\Temporary Projects\multiplicationOfTwoNumbers\bin\Debug\Guna.UI2.dll
+C:\Users\user\AppData\Local\Temporary Projects\multiplicationOfTwoNumbers\obj\x86\Debug\multiplicationOfTwoNumbers.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\multiplicationOfTwoNumbers\obj\x86\Debug\multiplicationOfTwoNumbers.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\multiplicationOfTwoNumbers\obj\x86\Debug\multiplicationOfTwoNumbers.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\multiplicationOfTwoNumbers\obj\x86\Debug\multiplicationOfTwoNumbers.exe
+C:\Users\user\AppData\Local\Temporary Projects\multiplicationOfTwoNumbers\obj\x86\Debug\multiplicationOfTwoNumbers.xml
+C:\Users\user\AppData\Local\Temporary Projects\multiplicationOfTwoNumbers\obj\x86\Debug\multiplicationOfTwoNumbers.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\multiplicationOfTwoNumbers\multiplicationOfTwoNumbers\obj\x86\Debug\multiplicationOfTwoNumbers.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\multiplicationOfTwoNumbers\multiplicationOfTwoNumbers\obj\x86\Debug\multiplicationOfTwoNumbers.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\multiplicationOfTwoNumbers\multiplicationOfTwoNumbers\obj\x86\Debug\multiplicationOfTwoNumbers.pdb

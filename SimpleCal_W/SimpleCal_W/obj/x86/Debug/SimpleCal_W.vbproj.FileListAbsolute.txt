@@ -18,3 +18,4 @@ C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W
 C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W\SimpleCal_W\obj\x86\Debug\SimpleCal_W.Form1.resources
 C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W\SimpleCal_W\obj\x86\Debug\SimpleCal_W.Resources.resources
 C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W\SimpleCal_W\obj\x86\Debug\SimpleCal_W.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W\SimpleCal_W\obj\x86\Debug\SimpleCal_W.vbprojResolveAssemblyReference.cache
