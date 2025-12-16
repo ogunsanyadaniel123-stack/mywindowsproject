@@ -1,0 +1,20 @@
+C:\Users\user\AppData\Local\Temporary Projects\SimpleCal_W\bin\Debug\SimpleCal_W.exe
+C:\Users\user\AppData\Local\Temporary Projects\SimpleCal_W\bin\Debug\SimpleCal_W.pdb
+C:\Users\user\AppData\Local\Temporary Projects\SimpleCal_W\bin\Debug\SimpleCal_W.xml
+C:\Users\user\AppData\Local\Temporary Projects\SimpleCal_W\bin\Debug\Guna.UI2.dll
+C:\Users\user\AppData\Local\Temporary Projects\SimpleCal_W\obj\x86\Debug\SimpleCal_W.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\SimpleCal_W\obj\x86\Debug\SimpleCal_W.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\SimpleCal_W\obj\x86\Debug\SimpleCal_W.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\SimpleCal_W\obj\x86\Debug\SimpleCal_W.exe
+C:\Users\user\AppData\Local\Temporary Projects\SimpleCal_W\obj\x86\Debug\SimpleCal_W.xml
+C:\Users\user\AppData\Local\Temporary Projects\SimpleCal_W\obj\x86\Debug\SimpleCal_W.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W\SimpleCal_W\obj\x86\Debug\SimpleCal_W.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W\SimpleCal_W\obj\x86\Debug\SimpleCal_W.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W\SimpleCal_W\obj\x86\Debug\SimpleCal_W.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W\SimpleCal_W\bin\Debug\SimpleCal_W.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W\SimpleCal_W\bin\Debug\SimpleCal_W.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W\SimpleCal_W\bin\Debug\SimpleCal_W.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W\SimpleCal_W\bin\Debug\Guna.UI2.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W\SimpleCal_W\obj\x86\Debug\SimpleCal_W.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W\SimpleCal_W\obj\x86\Debug\SimpleCal_W.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\mywindowsproject\SimpleCal_W\SimpleCal_W\obj\x86\Debug\SimpleCal_W.vbproj.GenerateResource.Cache
